@@ -5,10 +5,18 @@ I am an Associate NOC Analyst by night and a builder of automated infrastructure
 I am passionate about taking manual processes and turning them into scalable, automated pipelines.
 
 ### 🛠️ My Tech Stack
-* **Languages:** Python
-* **Infrastructure & CI/CD:** Docker, GitHub Actions, Git
-* **Observability & Monitoring:** Grafana, Trustgrid, New Relic
-* **Operations:** Major Incident Management (MIM), Jira, Slack APIs/Webhooks
+
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Infrastructure & CI/CD** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Observability & Monitoring** ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white)
+
+**Operations** ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### 🚀 Featured Project
 **[Automated Uptime Monitor](https://github.com/isaac-bolton-9/uptime-monitor)**
