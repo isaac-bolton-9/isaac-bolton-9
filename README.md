@@ -11,7 +11,7 @@ I am passionate about taking manual processes and turning them into scalable, au
 * **Operations:** Major Incident Management (MIM), Jira, Slack APIs/Webhooks
 
 ### 🚀 Featured Project
-**[Automated Uptime Monitor] https://github.com/isaac-bolton-9/uptime-monitor**
+**[Automated Uptime Monitor](https://github.com/isaac-bolton-9/uptime-monitor)**
 A containerized Python application that proactively monitors website payloads and utilizes GitHub Actions to run on an automated CI/CD schedule. If service degradation is detected, it automatically pings a private Discord server via webhooks. 
 
 ### ⚡ Quick Facts
